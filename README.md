@@ -14,6 +14,9 @@
 - ✔ obsługiwanie programów do montażu/nagrywania
 - ✔ tworzenia muzyki
 
+### Beztalencie
+- ❌ programowanie
+
 🐱‍👤 kocham polaków
 
 ###### okb i wiele więcej
